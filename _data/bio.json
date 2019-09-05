@@ -53,8 +53,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -62,10 +60,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
@@ -74,7 +71,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2019-08-026",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -82,7 +79,7 @@
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Information and Communication Technology (expected Spring, 2021)",
+      "area": "Information and Communication Technology",
       "studyType": "A.S.N.S.",
       "startDate": "2016-08-26",
       "endDate": "2019-5-10",
@@ -98,9 +95,10 @@
       "website": "",
       "startDate": "2019-08-04",
       "endDate": "Present",
-      "summary": "Re-stock shelves, help customers find what they need, and work the cashier register",
+      "summary": ""
       "highlights": [
-        "Organizing store products neatly and ensuring they are in the correct isles"
+        "Organizing store products neatly and ensuring they are in the correct isles",
+        "Re-stock shelves, help customers find what they need, and work the cashier register"
       ]
     },
     {
@@ -116,6 +114,8 @@
       ]
     }
   ],
+  /**
+  Self-note, remember to find the website to the volunteer site I went to about a year ago.
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -130,6 +130,8 @@
       ]
     },
   ],
+  
+  I don't think I have any awards at the moment, so I commented this section out. Just in case I get one some day in the future.
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -144,6 +146,7 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
+  **/
   "references": [
     {
       "name": "Available upon request",
