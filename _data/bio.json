@@ -114,8 +114,7 @@
       ]
     }
   ],
-/**
-  Self-note, remember to find the website to the volunteer site I went to about a year ago.
+  //Self-note, remember to find the website to the volunteer site I went to about a year ago.
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -131,7 +130,7 @@
     },
   ],
   
-  I don't think I have any awards at the moment, so I commented this section out. Just in case I get one some day in the future.
+  //I don't think I have any awards at the moment, so I commented this section out. Just in case I get one some day in the future.
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -146,7 +145,6 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-**/
   "references": [
     {
       "name": "Available upon request",
