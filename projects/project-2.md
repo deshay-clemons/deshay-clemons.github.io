@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: brassSection.jpg
+image: images/brassSection.jpg
 title: Leading a Section
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
