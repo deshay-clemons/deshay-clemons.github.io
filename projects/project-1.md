@@ -33,3 +33,6 @@ When it came time to submission, I hit a road block and realized that the webpag
 
 This is a snippet of the Navbar I created (spaces inbetween ul and li were do so it display the raw code:
 
+<div>
+  <img class="ui image" src="../images/snapShotOfCode.png">
+</div>
