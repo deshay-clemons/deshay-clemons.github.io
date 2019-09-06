@@ -112,6 +112,30 @@
         "Provided general assistance, clerical, and administrative support to counseling faculty and staff in the support of Leeward students, specifically first-year students",
         "Created and participated in programs and activities that support students retention, persistence, and success both inside and outside of the classroom"
       ]
+    },
+    {
+      "company": "Pizza Hut",
+      "position": "Delivery Driver",
+      "website": "",
+      "startDate": "2018-05-20",
+      "endDate": "2018-11-20",
+      "summary": "",
+      "highlights": [
+        "Took phone calls to confirm orders, addresses, and provided suggestive upselling",
+        "Washed dishes, cleaned work station, and took out trash occasionally"
+      ]
+    },
+    {
+      "company": "Popeyes Louisiana Kitchen",
+      "position": "Service Pro",
+      "website": "",
+      "startDate": "2016-07-04",
+      "endDate": "2017-03-15",
+      "summary": "",
+      "highlights": [
+        "Trained and supervised new employees on how to bag items and work the cash register",
+        "Promoted every two months from trainee, bagger, cashier, to service pro"
+      ]
     }
   ],
   "volunteer": [
