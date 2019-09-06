@@ -11,13 +11,8 @@ labels:
   - programming
 summary: I attempted to make a HTML webpage that I could use to send out newsletters to the ASNS students.
 ---
-<div class="ui small rounded images">
+<div class="ui small rounded images" style="width:600px; height:1600px">
   <img class="ui image" src="../images/webPage_Screenshot.png">
-  <!--
-    <img class="ui image" src="../images/micromouse-robot-2.jpg">
-    <img class="ui image" src="../images/micromouse.jpg">
-    <img class="ui image" src="../images/micromouse-circuit.png">
-  --->
 </div>
 
 At the time, I was taking a web development class (ICS 215) where I learned multiple languages such as HTML, Python, Javascript, and more. My boss asked me to create a newsletter for all of the Leeward students and I decided to use my knowledge from ICS 215 to create a HTML page. I made this my goal to complete it by one week since I was still new to working with HTML. When I first began constructing this webpage, it was rough process. When brainstorming, I decided to first seek inspiration on what type of webpages I was drawn towards to.
