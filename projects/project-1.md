@@ -15,7 +15,9 @@ summary: I attempted to make a HTML webpage that I could use to send out newslet
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/webPage_Screenshot.png" height="500" width="1400">
+  <a href = "../images/webPage_Screenshot.png" target="_blank" >
+    <img class="ui image" src="../images/webPage_Screenshot.png">
+  </a>
 </div>
 
 At the time, I was taking a web development class (ICS 215) where I learned multiple languages such as HTML, Python, Javascript, and more. My boss asked me to create a newsletter for all of the Leeward students and I decided to use my knowledge from ICS 215 to create a HTML page. I made this my goal to complete it by one week since I was still new to working with HTML. When I first began constructing this webpage, it was rough process. When brainstorming, I decided to first seek inspiration on what type of webpages I was drawn towards to.
