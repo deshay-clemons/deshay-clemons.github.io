@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LCC_Logo.jpg
+image: images/LccLogo.jpeg
 title: HTML Webpage
 permalink: projects/htmlWebpage
 # All dates must be YYYY-MM-DD format!
