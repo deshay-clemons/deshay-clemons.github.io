@@ -12,11 +12,10 @@ labels:
 summary: I attempted to make a HTML webpage that I could use to send out newsletters to the ASNS students.
 ---
 
-
+Click on the image below to see the before and after of the my webpages.
 
 <div class="ui small rounded images">
   <a href = "../images/webPage_Screenshot.png" target="_blank" >
-    Click me for snapshot of my webpage!
     <img class="ui image" src="../images/webPage_Screenshot.png">
   </a>
 </div>
