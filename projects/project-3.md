@@ -7,55 +7,13 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Programming
+  - C
+summary: A deck tracker I made as a custom homework problem for ICS 212
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For one of my assignments in ICS 212, the class was tasked to create our own program based on what we learned in C after two weeks of the semester. At this point, we did not learn how to create arrays in C Language. Instantly I thought of making a deck tracker similar where it can display the drawing order when given a deck of cards. Most of my inspiration came from playing Hearthstone and using another application called HS Tracker. Basically, HS Tracker is a useful tool that tells you what card you just have drawn, what cards are left in your deck still, and the probability of drawing a specific card in your deck.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+This program simulates the probability of drawing a pair of cards (2 of a kind) within five turns. There are 15 pairs of 2 identical cards, which makes up 30 cards in total. The program also displays the drawing order, assuming we have an empty hand. This was inspired by my one of favorite card games (Hearthstone) and to see how difficult it was to find the probability of drawing a single pair of cards. I plan to build more upon this program on the side while I learn more about C language in this course.
 
