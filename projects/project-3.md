@@ -23,5 +23,5 @@ Below is my sample code of how I calculated the probability of drawing a single 
 
 Here is the results when I ran my program:
 <a href = "../images/webPage_Screenshot.png" target="_blank" >
-    <img class="ui image" src="../images/deckTracker.png">
+    <img class="ui image" src="../images/programResult.png">
 </a>
