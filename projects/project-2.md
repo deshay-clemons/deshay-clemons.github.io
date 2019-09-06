@@ -2,16 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Leading a Section
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-12
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Leadership
+  - Teamwork
+summary: Back in high school I used to be section leader for marching band.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
