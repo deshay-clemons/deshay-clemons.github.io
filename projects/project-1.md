@@ -32,12 +32,13 @@ In my mind, the main feature I love the most is the sticky Navbar (Navigation Ba
 When it came time to submission, I hit a road block and realized that the webpage would not be so user friendly for mobile phones. With this I saw that my hard work did not go to waste, because I decided to use MailChimp. When I uploaded my HTML page into MailChimp, it only took bits and pieces due to MailChimp's syntax. So I, essentially redid the webpage and was able to learn more about creating a seemingly simple webpage to display.
 
 This is a snippet of the Navbar I created:
-'<ul>
-    <li><a href="#top" active:="">Home</a></li>
-    <li><a href="#dates">Dates</a></li>
-    <li><a href="#intro">Introductions</a></li><li>
-    </li><li><a href="#transfer">Transfering</a></li>
-    <li><a href="#workshops">Workshops</a></li>
-    <li style="float:right"><a href="#About">About</a></li>
-  </ul>
+'
+<ul>
+  <li><a href="#top" active:="">Home</a></li>
+  <li><a href="#dates">Dates</a></li>
+  <li><a href="#intro">Introductions</a></li><li>
+  </li><li><a href="#transfer">Transfering</a></li>
+  <li><a href="#workshops">Workshops</a></li>
+  <li style="float:right"><a href="#About">About</a></li>
+</ul>
 '
