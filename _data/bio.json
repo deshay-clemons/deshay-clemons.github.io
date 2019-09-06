@@ -95,8 +95,11 @@
       "website": "",
       "startDate": "2019-08-04",
       "endDate": "Present",
-      "summary": ""
-      
+      "summary": "",
+      "highlights": [
+        "Organizing store products neatly and ensuring they are in the correct isles",
+        "Re-stock shelves, help customers find what they need, and work the cashier register"
+      ]
     },
     {
       "company": "Leeward Community College",
@@ -125,14 +128,14 @@
       ]
     },
   ],
-  "awards": [
+  /**"awards": [
     {
       "title": "",
       "date": "",
       "awarder": "",
       "summary": ""
     },
-  ],
+  ],**/
   "references": [
     {
       "name": "Available upon request",
