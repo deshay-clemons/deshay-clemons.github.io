@@ -20,8 +20,8 @@ summary: I attempted to make a HTML webpage that I could use to send out newslet
 </div>
 --->
 
-At the time, I was taking a web development class (ICS 215) where I learned multiple languages such as HTML, Python, and Javascript. My boss asked me to create a newsletter for all of the Leeward students and I decided to use my knowledge from ICS 215 to create a HTML page. I made this my goal to complete it by one week since I was still new to working with HTML. When I first began constructing this webpage, it was rough process. When brainstorming, I decided to first seek inspiration on what type of webpages I was drawn towards to. 
+At the time, I was taking a web development class (ICS 215) where I learned multiple languages such as HTML, Python, Javascript, and more. My boss asked me to create a newsletter for all of the Leeward students and I decided to use my knowledge from ICS 215 to create a HTML page. I made this my goal to complete it by one week since I was still new to working with HTML. When I first began constructing this webpage, it was rough process. When brainstorming, I decided to first seek inspiration on what type of webpages I was drawn towards to.
 
-Since
+In my mind, the main feature I love the most is the sticky Navbar (Navigation Bar) because it is extremely usely when browsing any page. Instead of tediously scrolling back up to a previous section of an article or the top, one click makes it so much easier. This makes it easier when browsing for something on the web, checking social media, or reading articles. Although it may take more time and inconvient to implement this feature, it makes the user's experience so much convient. Popular websites I noticed utilizing this common feature were Google, Facebook, and Hulu for example.
 
 Here you can view the template of the HTML page I created: (http://www-ee.eng.hawaii.edu/~mmouse/about.html).
