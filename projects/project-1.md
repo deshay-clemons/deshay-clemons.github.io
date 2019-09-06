@@ -9,7 +9,7 @@ date: 2019-02-07
 labels:
   - HTML
   - programming
-summary: When working at LCC, I attempted to make a HTML webpage that I could use to send out newsletters to the ASNS students.
+summary: I attempted to make a HTML webpage that I could use to send out newsletters to the ASNS students.
 ---
 <!--
 <div class="ui small rounded images">
@@ -19,8 +19,9 @@ summary: When working at LCC, I attempted to make a HTML webpage that I could us
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 --->
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+At the time, I was taking a web development class (ICS 215) where I learned multiple languages such as HTML, Python, and Javascript. My boss asked me to create a newsletter for all of the Leeward students and I decided to use my knowledge from ICS 215 to create a HTML page. I made this my goal to complete it by one week since I was still new to working with HTML. When I first began constructing this webpage, it was rough process. When brainstorming, I decided to first seek inspiration on what type of webpages I was drawn towards to. 
+
+Since
 
 Here you can view the template of the HTML page I created: (http://www-ee.eng.hawaii.edu/~mmouse/about.html).
