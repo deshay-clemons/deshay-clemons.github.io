@@ -33,12 +33,12 @@ When it came time to submission, I hit a road block and realized that the webpag
 
 This is a snippet of the Navbar I created:
 
-"<ul>
+'<ul>
   '<li><a href="#top" active:="">Home</a></li>
-  <li><a href="#dates">Dates</a></li>
-  <li><a href="#intro">Introductions</a></li><li>
-  </li><li><a href="#transfer">Transfering</a></li>
-  <li><a href="#workshops">Workshops</a></li>
-  <li style="float:right"><a href="#About">About</a></li>
-</ul>"
+  '<li><a href="#dates">Dates</a></li>
+  '<li><a href="#intro">Introductions</a></li><li>
+  '</li><li><a href="#transfer">Transfering</a></li>
+  '<li><a href="#workshops">Workshops</a></li>
+  '<li style="float:right"><a href="#About">About</a></li>
+'</ul>
 
