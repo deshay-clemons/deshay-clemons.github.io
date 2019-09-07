@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Interests in Software Engineering
+title: Goals for Software Engineering
 date: 2019-09-06
 labels:
   - Software Engineering
