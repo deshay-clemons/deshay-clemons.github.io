@@ -21,6 +21,7 @@ Now let us implement Semantic UI to this HTML and CSS and find that it is superi
 From personal experiences with web development, I have only coded my webpages with raw HTML and CSS code with Atom. I would use the website <a href="https://www.w3schools.com" target="_blank">W3Schools</a> to get the correct layout of a webpage and CSS styles. When learning Semantic UI this past week, I found it extremely convenient to use. To be completely honest, I felt overwhelmed by the plentiful amount of usages it has to offer when first starting to learn it. However, the naming conventions for semantics are easier to remember and follow when looking back on the same code later on for modifications. At first coding with Semantic UI seems slow since everything is relatively new, but in time the pace begins to pick up when you are able to recognize which semantics will come in handy.
 
 Lastly, I found semantics to be visually appealing for users who are casually browsing the internet. For example, if a person searches on the web for information on the “History of Browsers” which one would you rather see? 
+<br>
 Raw HTML and CSS code:
 <br><br>
 <a href="../images/browserhistory1_raw_HTML_and_CSS.png" target="_blank"><img width="300px" class="ui centered image" src="../images/browserhistory1_raw_HTML_and_CSS.png"></a>
