@@ -23,8 +23,9 @@ From personal experiences with web development, I have only coded my webpages wi
 Lastly, I found semantics to be visually appealing for users who are casually browsing the internet. For example, if a person searches on the web for information on the “History of Browsers” which one would you rather see? 
 <br>
 Raw HTML and CSS code:
+<br>
 <a href="../images/browserhistory1_raw_HTML_and_CSS.png" target="_blank"><img width="300px" class="ui float right image" src="../images/browserhistory1_raw_HTML_and_CSS.png"></a>
-<br><br>
+<br>
 Adding Semantics UI to the raw HTML and CSS:
 <a href="../images/browserhistory_with_semantic.png" target="_blank"><img width="300px" class="ui float right image" src="../images/browserhistory_with_semantic.png"></a>
 <br><br>
