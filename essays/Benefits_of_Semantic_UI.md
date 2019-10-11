@@ -23,12 +23,10 @@ From personal experiences with web development, I have only coded my webpages wi
 Lastly, I found semantics to be visually appealing for users who are casually browsing the internet. For example, if a person searches on the web for information on the “History of Browsers” which one would you rather see? 
 <br>
 Raw HTML and CSS code:
-<br><br>
-<a href="../images/browserhistory1_raw_HTML_and_CSS.png" target="_blank"><img width="300px" class="ui centered image" src="../images/browserhistory1_raw_HTML_and_CSS.png"></a>
+<a href="../images/browserhistory1_raw_HTML_and_CSS.png" target="_blank"><img width="300px" class="ui float right image" src="../images/browserhistory1_raw_HTML_and_CSS.png"></a>
 <br><br>
 Adding Semantics UI to the raw HTML and CSS:
-<br><br>
-<a href="../images/browserhistory_with_semantic.png" target="_blank"><img width="300px" class="ui centered image" src="../images/browserhistory_with_semantic.png"></a>
+<a href="../images/browserhistory_with_semantic.png" target="_blank"><img width="300px" class="ui float right image" src="../images/browserhistory_with_semantic.png"></a>
 <br><br>
 Even though both images above have the same information displayed most people would obviously choose the second webpage. Now, why is that? Well, this webpage is visually appealing, everything is organized in a neat matter and well-formatted. This means, that we (the users) are more likely to stay on their site and read their content too. For software engineers, this is what we strive to achieve when developing our own websites.
 
