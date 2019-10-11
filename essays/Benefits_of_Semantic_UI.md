@@ -11,6 +11,7 @@ labels:
 Although understanding the UI (User Interface) Framework is as complex as learning a new programming language, it does have its perks. For those who may not know <a href="https://semantic-ui.com" target="_blank">Semantic UI</a>, it is a part of the UI Framework that transforms webpages created from HTML (Hypertext Markup Language) and CSS (Cascading Style Sheet) code. Investing time and going through the hair-pulling frustration of the learning process of Semantic UI is worth it for anyone interested in Software Engineering. Utilizing semantics saves time, provides easier naming conventions, and creates visually appealing for users.
 
 Normally when creating a webpage with just the HTML and CSS code, it can seem like a daunting task to build a menu or navigation bar with numerous tags like header, unorder list, list, or division. Often times the navigation bar can be hard to follow because there are so many components. Here is an example of raw HTML and CSS when creating a navigation bar:
+<br>
 <img width="300px" class="ui centered image" src="../images/raw HTML and CSS code of navBar.png">
 
 Now let us implement Semantic UI to this HTML and CSS and find that it is superiorly easier to read through when looking at the code. We save a lot of lines with our code and can clearly see what we are creating which is a menu that contains a list of items inside. Usually, fewer lines of codes mean that the developer is saving time. Here is a snippet of the code that utilizes semantics:
