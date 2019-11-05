@@ -7,20 +7,18 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Rent a stall idea, 
-Deal of the day something food related. Merch.
 
 1. Overview (including “The problem” and “The solution”)
   
-    News feed app that has current updates on news about the UH system. Also can post complaints.
+    News feed app that has current updates on news, sports, food hotspots, traffic that involves UH system. Also can post complaints/suggestions if needed.
 
 2. Mockup page ideas
   - Landing Page
   - Admin Page
   - Settings Page
-  - News Page
+  - News Page, Traffic updates included
   - Sports Calendar of Events
-  - Report Page
+  - Report/Suggestion Page
   - Map of Classes
   - Food Hotspots
     
