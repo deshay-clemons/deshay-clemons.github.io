@@ -26,7 +26,7 @@ labels:
 
  First the user goes to landing page and logs in with uh email and directed to profile page. From there user has the option to select different feed like food, news, sports, etc. Updates on maintenance or construction that is currently happening on campus. Updates on live concerts and local groups that visit on campus.
  
-4. Beyond the basics
+4.4. Beyond the basics
 
   Logins will only accept UH emails so we know that they are apart of the UH system.
   Has the option to change their preferences in settings.
