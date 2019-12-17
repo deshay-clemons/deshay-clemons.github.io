@@ -1,0 +1,14 @@
+---
+layout: project
+type: project
+image: images/deckTracker.png
+title: UH Manoa Marketplace
+permalink: projects/uh-manoa-marketplace
+# All dates must be YYYY-MM-DD format!
+date: 2019-12-17
+labels:
+  - Github
+  - IntelliJ IDEA
+  - Web Development
+summary: Created a webpage for UH students and faculty to buy or sell their items.
+---
