@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/deckTracker.png
+image: images/LandingPage.png
 title: UH Manoa Marketplace
 permalink: projects/uh-manoa-marketplace
 # All dates must be YYYY-MM-DD format!
