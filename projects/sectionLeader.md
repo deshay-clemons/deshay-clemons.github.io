@@ -10,6 +10,7 @@ labels:
   - Leadership
   - Teamwork
 summary: Back in high school I used to be section leader for marching band.
+hidden: true
 ---
 
 <img class="ui medium right floated rounded image" src="../images/brassSection.jpg">
