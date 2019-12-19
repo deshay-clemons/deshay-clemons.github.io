@@ -17,7 +17,7 @@ For one of my assignments in ICS 212, the class was tasked to create our own pro
 This program simulates the probability of drawing a pair of cards (2 of a kind) within five turns. There are 15 pairs of 2 identical cards, which makes up 30 cards in total. The program also displays the drawing order, assuming we have an empty hand. This was inspired by my one of favorite card games (Hearthstone) and to see how difficult it was to find the probability of drawing a single pair of cards. I plan to build more upon this program on the side while I learn more about C language in this course.
 
 Below is my sample code of how I calculated the probability of drawing a single pair of cards:
-<a href = "../images/webPage_Screenshot.png" target="_blank" >
+<a href = "../images/deckTracker.png" target="_blank" >
     <img class="ui image" src="../images/deckTracker.png">
 </a>
 
