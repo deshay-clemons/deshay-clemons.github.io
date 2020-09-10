@@ -6,7 +6,7 @@
     "email": "dclemons@hawaii.edu",
     "phone": "",
     "website": "https://deshay-clemons.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96782",
@@ -42,6 +42,11 @@
       "name": "software engineering",
       "keywords": [
       ]
+    },
+    {
+      "name": "game development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -69,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
       "startDate": "2019-08-26",
       "endDate": "Present",
@@ -99,6 +104,18 @@
       "highlights": [
         "Organizing store products neatly and ensuring they are in the correct isles",
         "Re-stock shelves, help customers find what they need, and work the cashier register"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa Learning Emporium",
+      "position": "ICS 111 and 211 Tutor",
+      "website": "",
+      "startDate": "2020-2-2",
+      "endDate": "2020-6-2",
+      "summary": "",
+      "highlights": [
+        "Aid students in understanding the fundamentals of computer science using an object-oriented programming language (Java)",
+        "Creating examples and mini exercises that help students think critically and begin the problem-solving process"
       ]
     },
     {
