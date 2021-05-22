@@ -19,21 +19,19 @@ Ho'omana'o, which in Hawaiian means reminder, is an web application where users 
 
 My group and I centered the development of this application with idea of it being user-friendly and easy-to-use...
 
-<div>
-  <div>
-    <div>1/3</div>
-    <img class="ui image" src="../images/landingPage.png">
+<div class="ui container">
+  <div style='display:none'>
+    <img class="ui image" src="../images/landingPage.png" style="width:100%">
   </div>
-  <div>
-    <div>2/3</div>
-    <img class="ui image" src="../images/loginPage.png">
+  <div style='display:none'>
+    <img class="ui image" src="../images/loginPage.png" style="width:100%">
   </div>
-  <div>
-    <div>3/3</div>
-    <img class="ui image" src="../images/calendarPage.png">
+  <div style='display:none'>
+    <img class="ui image" src="../images/calendarPage.png" style="width:100%">
   </div>
+  
+  <a>&#10094;</a>
+  <a>&#10095;</a>
 </div>
-
-(Possibly add a few images of the landing, calendar, and help page in a slideshow style)
 
 This project with my group members, taught me a lot about Human Computer Interaction. I helped with the Login Page, brainstorming on the development of this webpage as well as data gathering. The repository for our web application can be found here. In addition, our final report on this project can be found here.
