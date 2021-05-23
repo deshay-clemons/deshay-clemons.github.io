@@ -19,15 +19,15 @@ Ho'omana'o, which in Hawaiian means reminder, is an web application where users 
 For this website, our group made a login, sign-up, landing, calendar, and help page. Below are some of the pages that our group made for the Ho'omana'o Project:
 <div>
   <div>
-    <h2>Landing Page</h1>
+    <h2>Landing Page</h2>
     <img class="ui image" src="../images/landingPage.png" style="width:100%">
   </div>
   <div>
-    <h2>Login Page</h1>
+    <h2>Login Page</h2>
     <img class="ui image" src="../images/loginPage.png" style="width:100%">
   </div>
   <div>
-    <h2>Calendar Page</h1>
+    <h2>Calendar Page</h2>
     <img class="ui image" src="../images/calendarPage.png" style="width:100%">
   </div>
 </div>
