@@ -12,7 +12,6 @@ labels:
   - Web Development
   - Human-Computer Interaction (HCI)
 summary: Created a web portal that serves as a reminder app for paitients to record their upcoming appointments.
-draft: true
 ---
 
 Ho'omana'o, which in Hawaiian means reminder, is an web application where users are able to add reminders for their future doctor's appointments. Through our data gathering process, we found that there was no real reliable way for patients to be reminded of their upcoming appointments. For both patients and doctors, they are both at a loss when it comes "no-shows". Patients may not be able to get their required medication for their health and well-being. At the same time, doctors as well with hospitals lose time, money, and see it as their responsibility to ensure that paitients know when the next appointment is scheduled.
