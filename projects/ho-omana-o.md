@@ -33,5 +33,4 @@ For this website, our group made a login, sign-up, landing, calendar, and help p
   </div>
 </div>
 
-(probably gotta add more about what i learned through this project) 
-This project with my group members, taught me a lot about Human Computer Interaction. I helped with the Login Page, brainstorming on the development of this webpage as well as data gathering. The repository for our web application can be found here. In addition, our final report on this project can be found <a target="blank" href="../images/Ho'omana'o_Project.pdf">here</a>.
+This project with my group members, taught me a lot about Human-Computer Interaction. The course that was taken alongside this project has taught me more about designing for the user experience and ensuring that a product is intuitive for anyone to use. I helped with the Login Page, brainstorming on the development of this webpage as well as data gathering. The repository for our web application can be found <a target="blank" href="https://github.com/Ho-omana-o/Ho-omana-o">here</a>. In addition, our final report on this project can be found <a target="blank" href="../images/Ho'omana'o_Project.pdf">here</a>.
